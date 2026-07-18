@@ -1,0 +1,6 @@
+opencv-python>=4.10.0
+numpy>=1.26.0
+mss>=9.0.1
+requests>=2.32.0
+pyautogui>=0.9.54
+kivy>=2.3.0

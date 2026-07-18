@@ -1,0 +1,20 @@
+{
+  "resources": [
+    {
+      "name": "wood",
+      "mode": "hsv",
+      "hsv_lower": [20, 100, 100],
+      "hsv_upper": [40, 255, 255],
+      "description": "Wood nodes",
+      "notes": "Tune these values for your game client"
+    },
+    {
+      "name": "stone",
+      "mode": "hsv",
+      "hsv_lower": [0, 100, 100],
+      "hsv_upper": [20, 255, 255],
+      "description": "Stone nodes",
+      "notes": "Tune these values for your game client"
+    }
+  ]
+}
